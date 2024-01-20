@@ -2,7 +2,7 @@
 int main()
 {
 
-    int size, temp;
+    int size, temp;//Taking variables
     printf("Enter the size of the array:\n");
     scanf("%d", &size);
     int arr[size];
